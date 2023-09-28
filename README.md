@@ -1,4 +1,4 @@
-# Minimal REST API with Spring
+# Minimal REST API with Spring (without Boot)
 
 Minimal working code for a deployable API, with the absolute minimal dependencies possible. The Tomcat dependencies and the Application class can even be removed if you are using your own external Tomcat and don't need the embedded one.
 
