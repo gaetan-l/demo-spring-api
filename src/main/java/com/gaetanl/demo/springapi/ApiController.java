@@ -1,4 +1,4 @@
-package gaetanl.demo.springapi;
+package com.gaetanl.demo.springapi;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package gaetanl.demo.springapi;
+package com.gaetanl.demo.springapi;
 
 import org.springframework.lang.NonNull;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;

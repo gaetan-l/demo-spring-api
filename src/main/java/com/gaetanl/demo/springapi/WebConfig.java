@@ -1,4 +1,4 @@
-package gaetanl.demo.springapi;
+package com.gaetanl.demo.springapi;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package gaetanl.demo.springapi;
+package com.gaetanl.demo.springapi;
 
 import java.io.File;
 import java.nio.file.Files;
