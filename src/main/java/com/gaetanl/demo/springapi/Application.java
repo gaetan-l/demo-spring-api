@@ -1,14 +1,14 @@
 package com.gaetanl.demo.springapi;
 
+import org.apache.catalina.startup.Tomcat;
+
 import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.LinkOption;
 import java.nio.file.Path;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Optional;
-import org.apache.catalina.startup.Tomcat;
 
 /**
  * Entry point in case the embedded Tomcat is needed, if not, this class can be
